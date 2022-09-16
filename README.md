@@ -15,24 +15,7 @@
 
 - 📫 How to reach me **mostafa.abdelmoneim94@gmail.com**
 
-- 📄 Know about my experiences [Mohamed Atef Resume - Full Stack Web Developer](<h1 align="center">Hey There, I'm Mostafa Abd El-Moneim Ismail <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">.Net Full Stack Web Developer From Egypt</h3>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+GitHub+Profile&center=true&width=500&height=100"></a>
-</p>
-
-## :sassy_man:  About me
-
-- I’m currently learning **Design Patterns**.
-
-- 👨‍💻 All of my projects are available at [https://github.com/Mostafaa021](https://github.com/Mostafaa021)
-
-- 💬 Ask me about HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, C#, LINQ, Entity Framework, MVC.Net Core, Web APIs, SQL Server, .
-
-- 📫 How to reach me **mostafa.abdelmoneim94@gmail.com**
-
-- 📄 Know about my experiences [Mostafa Abd Moneim Resume - Software Engineer](https://drive.google.com/file/d/1qYvbhwr59eGx_ecih5Qwl-vwVj2BtBgA/view?usp=sharing)
+- 📄 Know about my experiences [Mostafa Abd Moneim Resume - Software Engineer](https://drive.google.com/file/d/1Zq3-n5weVYsNG5P6dzFrMSdkRnCxqpgD/view?usp=sharing)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-abd-el-moneim-ismail/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Arshmedes) 
