@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mostafaa021](https://github.com/Mostafaa021)
 
-- 💬 Ask me about HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, C#, LINQ, Entity Framework, MVC.Net Core, Web APIs, SQL Server, .
+- 💬 Ask me about HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, C#, LINQ, Entity Framework, MVC.Net Core, Web APIs, SQL Server.
 
 - 📫 How to reach me **mostafa.abdelmoneim94@gmail.com**
 
